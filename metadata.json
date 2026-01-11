@@ -1,0 +1,8 @@
+{
+  "name": "AgriLink India (FasalSetu)",
+  "description": "A demand-driven digital agriculture marketplace connecting farmers directly with buyers via escrow and WhatsApp updates.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
